@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "hbs": "~4.0.5",
+    "hbs": "~4.2.0",
     "debug": "~2.6.9",
     "express": "~4.16.1"
   }
